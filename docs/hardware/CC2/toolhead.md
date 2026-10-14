@@ -73,7 +73,7 @@ Credit to Baconmilkshake on the OpenCentauri Discord.
     |UART|PB11|
 
 === "Filament Detector Board"
-    Type: 4-Pin connector, connects to the [filament detector board](#filament-detector-board)
+    Type: JST SHD 2x4 connector, connects to the [filament detector board](#filament-detector-board)
 
     |pin nr|marking|pin|remarks|
     |--|---|----|---|
